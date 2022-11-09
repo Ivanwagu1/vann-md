@@ -3,39 +3,39 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['62895327934887'] 
+global.owner = ['6285876830674'] 
 global.mods = [] 
 global.prems = [] 
-global.kontak = ['62895327934887']
+global.kontak = ['6285876830674']
 
 //  INFO BOT 
-global.naown = 'KRIZYN OFC'
-global.noown = '62895327934887'
-global.namebot = 'FORYN FOUR'
-global.nobot = '6289502319715'
+global.naown = 'VANN'
+global.noown = '6285876830674'
+global.namebot = 'SANS-BOT'
+global.nobot = '62819095411460'
 
 //  URL SOSMED
-global.instagram = 'https://instagram.com/itskri99'
-global.github = 'https://github.com/krizynofc'
-global.gc = 'https://chat.whatsapp.com/HVyRaNWp18NKMAIHv8NjLP'
-global.web = 'https://lynk.id/kri.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.saweria = 'https://saweria.co/Kricom'
+global.instagram = 'https://instagram.com/ivantheo159'
+global.github = 'https://github.com/Ivanwagu1'
+global.gc = 'https://chat.whatsapp.com/EPmjuw9X1wZDGX1p4NCV1e'
+global.web = 'https://github.com/Ivanwagu1' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.saweria = '-'
 
 // PAYMANT 
-global.dana = '081360482998'
-global.pulsa = '081360482998'
-global.gopay = '081360482998'
-global.shopay = '081360482998'
-global.ovo = '081360482998'
+global.dana = '085876830674'
+global.pulsa = '085876830674'
+global.gopay = '0'
+global.shopay = '112085876830674'
+global.ovo = '0'
 
 // PROFILE ALL 
-global.ppreg = 'https://telegra.ph/file/445721f7cdab701543840.jpg'
-global.fotonya1 = 'https://telegra.ph/file/c58f43806ef4b7038a7f4.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/c58f43806ef4b7038a7f4.jpg' //ini juga ganti 
-global.ppacc = 'https://telegra.ph/file/a077271ff372545599dbc.jpg'
-global.imgloc = 'https://telegra.ph/file/e6355ade20840c96814ed.jpg'
-global.media = 'https://telegra.ph/file/f209153a54698c43032f7.jpg'
-global.ppm = 'https://telegra.ph/file/85f5dd4cfb4fdd9d65cbf.jpg'  // bagian atas all command
+global.ppreg = 'https://telegra.ph/file/3eed967909e37d97d6a47.jpg'
+global.fotonya1 = 'https://telegra.ph/file/3eed967909e37d97d6a47.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/3eed967909e37d97d6a47.jpg' //ini juga ganti 
+global.ppacc = 'https://telegra.ph/file/3eed967909e37d97d6a47.jpg'
+global.imgloc = 'https://telegra.ph/file/3eed967909e37d97d6a47.jpg'
+global.media = 'https://telegra.ph/file/3eed967909e37d97d6a47.jpg'
+global.ppm = 'https://telegra.ph/file/3eed967909e37d97d6a47.jpg'  // bagian atas all command
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 
@@ -54,10 +54,10 @@ global.fsizedoc = '99999999999999' // default 10TB
 global.fpagedoc = '999'
 
 // WATERMARK  
-global.wm = 'ᬊᬁ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑'
+global.wm = 'ᬊᬁ 𝐒𝐀𝐍𝐒 𝐁𝐎𝐓'
 global.watermark = wm
-global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝙆𝙧𝙞𝙯𝙮𝙣𝙊𝙛𝙘'
-global.wm3 = '⫹⫺ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑 | BOT WHATSAPP MD'
+global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝙑𝘼𝙉𝙉'
+global.wm3 = '⫹⫺ 𝙎𝘼𝙉𝙎 𝘽𝙊𝙏 | BOT WHATSAPP MD'
 global.tb = 'WHATSAPP BOT MULTI DEVICE'
 
 //  DEFAULT MENU  
@@ -77,16 +77,7 @@ global.ftb = '┃\n┗━━══┅┅══━━━✦\n'
 
 global.admen = `┏═┅〔 *SUPPORT* 〕┅═✦
 ┃
-┃⫹⫺ Nurutomo
-┃⫹⫺ Ilmanhdyt
-┃⫹⫺ Elyas
-┃⫹⫺ Hyzer
-┃⫹⫺ KrizynOfc
-┃⫹⫺ Zivsan
-┃⫹⫺ Mursid
-┃⫹⫺ Jarot
-┃⫹⫺ Kanna
-┃⫹⫺ Fokusid
+┃⫹⫺ 𝙑𝘼𝙉𝙉
 ┃
 ┗━━══┅┅══━━━✦`
         

@@ -2,11 +2,11 @@ let fs = require('fs')
 let fetch = require('node-fetch')
 let handler = async (m, { conn, text }) => {
 let name = m.fromMe ? conn.user : conn.contacts[m.sender]
-let krizyn = 'https://telegra.ph/file/cd37b4f991d633caa6306.jpg'
+let krizyn = 'https://telegra.ph/file/3eed967909e37d97d6a47.jpg'
 await conn.send3ButtonImg(m.chat, krizyn, "=====『 TAG TERDETEKSI 』=====\n\nAda perlu apa panggil panggil bos saya, kangen yaa 🤪", '📮 Silahkan Pilih Button dibawah ini', 'Group', '.allgc', 'Menu', '.menu', 'Store', '.store', m)
                         
 }
-handler.customPrefix = /(@+62 895-3279-34887|@+62895327934887|@62895327934887|@0895327934887)/i
+handler.customPrefix = /(@+62 858-7683-0674|@+6285876830674|@6285876830674|@085876830674)/i
 handler.command = new RegExp
 
 module.exports = handler
